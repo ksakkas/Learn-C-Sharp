@@ -2,7 +2,7 @@ using System;
 
 namespace math
 {
-    class Program
+    class math
     {
         static void Main(string[] args)
         {
