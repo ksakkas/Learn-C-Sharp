@@ -1,38 +1,20 @@
-## Welcome to GitHub Pages
-<h1 style="text-align:center;">Centered Heading</h1>
+<html>
+<body>
+<h1> Learn C#</h1>
+<p> Τμήμα Πληροφορικής & Τηλεπικοινωνιών </p>
+<p> Κωνσταντίνος Σακκάς</p>
+<p>Copyright © 2021 Κωνσταντίνος Σακκάς. Με την επιφύλαξη παντός δικαιώματος</p>
+  <h1></h1>
+<hr>
 
-You can use the [editor on GitHub](https://github.com/ksakkas/Learn-C-Sharp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h1>C#</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<ul>
+<li><a href="./Codes/1_intro.cs" target="_blank">1. Hello World</a> </li>
+<li><a href="./Codes/2_var.cs" target="_blank">2. Μεταβλητές</a> </li>
+<li><a href="./Codes/3_casting.cs" target="_blank">3. Casting</a> </li>
+<li><a href="./Codes/4_input.cs" target="_blank">4. Είσοδος Δεδομένων</a> </li>
+<li><a href="./Codes/5_operators.cs" target="_blank">5. Τελεστές</a> </li>
+<li><a href="./Codes/6_math.cs" target="_blank">6. Μαθηματικά στην C#</a> </li>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ksakkas/Learn-C-Sharp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</ul>
